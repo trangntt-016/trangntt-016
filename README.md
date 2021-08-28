@@ -51,17 +51,17 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-###Deployed on
+### Deployed on
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-###Testing
+### Testing
 ![JUnit Jupiter](https://img.shields.io/maven-central/v/org.junit.jupiter/junit-jupiter.svg?colorB=25a162&label=JUnit%20Jupiter&style=flat&logoWidth=8)
 ![Mockito](https://img.shields.io/maven-central/v/org.mockito/junit-jupiter.svg?colorB=25a162&label=Mockito&style=flat&logoWidth=8)
 
-###Platform
+### Platform
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
