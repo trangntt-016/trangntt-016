@@ -1,6 +1,6 @@
 ### Hi there, I'm Tracy Nguyen 
 
-## I'm a Computer Programming Student with a focus on Java!
+## I'm a Computer Programming Student!
 
 - 🔭 I’m currently working on a crypto project!
 - 🌱 I’m currently learning Java Spring Boot, data structures and algorithms
