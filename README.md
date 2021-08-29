@@ -78,6 +78,12 @@
 
 ---
 
+### 📝 Latest Blog Posts
+
+#### Medium
+![Chatrooms with history conversations, user’s online status, notification of unread messages using Spring Boot, Angular, MySQL](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
+
+
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=trangntt-016" alt="Profile's view">                     
 </p>
