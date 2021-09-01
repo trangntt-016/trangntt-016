@@ -80,7 +80,7 @@
 ### 📝 Latest Blog Posts
 
 #### Medium
-![My friend didn't believe that I could build these features ...And here's how I did it](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
+![A realtime chat features](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
 
 ![Optimization... optimization everywhere](https://tracy016.medium.com/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d)
 
