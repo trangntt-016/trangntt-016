@@ -38,7 +38,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Database
@@ -81,7 +80,9 @@
 ### 📝 Latest Blog Posts
 
 #### Medium
-![Chatrooms with history conversations, user’s online status, notification of unread messages using Spring Boot, Angular, MySQL](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
+![My friend didn't believe that I could build these features ...And here's how I did it](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
+
+![Optimization... optimization everywhere](https://tracy016.medium.com/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d)
 
 
 <p align=center>                           
