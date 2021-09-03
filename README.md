@@ -80,10 +80,11 @@
 ### 📝 Latest Blog Posts
 
 #### Medium
-![A realtime chat features](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
+![Chatrooms with history conversations, user’s online status, notification of unread messages using Spring Boot, Angular, MySQL](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
 
 ![Optimization... optimization everywhere](https://tracy016.medium.com/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d)
 
+![Push Notification for Order Placed Using Observable Design Pattern with Spring Boot, WebSocket, Angular](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=trangntt-016" alt="Profile's view">                     
