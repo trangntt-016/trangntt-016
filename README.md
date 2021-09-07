@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a crypto project!
 - 🌱 I’m currently learning Java Spring Boot, data structures and algorithms
 - 👯 I’m looking for Coop/ Internship for Winter 2021.
-- 🥅 2021 Goals: Contribute more to Open Source projects and get Amazon AWS Cloud Practitioner Foundation.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love cats.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
@@ -86,7 +86,6 @@ President’s Honour List – Fall 2020
 ### Geek Culture
 ![Chatrooms with history conversations, user’s online status, notification of unread messages using Spring Boot, Angular, MySQL](https://medium.com/geekculture/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
 
-#### Medium
 ![Optimization... optimization everywhere](https://tracy016.medium.com/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d)
 
 ![Push Notification for Order Placed Using Observable Design Pattern with Spring Boot, WebSocket, Angular](https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a)
