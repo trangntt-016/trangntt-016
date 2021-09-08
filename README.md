@@ -81,14 +81,14 @@ President’s Honour List – Fall 2020
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Blogs
 
 ### Geek Culture
 <a href="https://medium.com/geekculture/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a">Chatrooms with history conversations, user’s online status, notification of unread messages using Spring Boot, Angular, MySQL</a>
 
-<a href="https://tracy016.medium.com/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d">Optimization... optimization everywhere</a>
+<a href="https://medium.com/geekculture/dynamic-search-filter-query-based-on-user-inputs-with-hibernate-mysql-spring-boot-85e842dcf8d">Optimization... optimization everywhere</a>
 
-<a href="https://tracy016.medium.com/chatrooms-with-history-conversations-users-online-status-notification-of-unread-messages-using-722f3146a64a">Push Notification for Order Placed Using Observable Design Pattern with Spring Boot, WebSocket, Angular</a>
+<a href="https://medium.com/geekculture/push-notification-for-order-placed-using-observable-design-pattern-with-spring-boot-websocket-9203874f3ebb">Push Notification for Order Placed Using Observable Design Pattern with Spring Boot, WebSocket, Angular</a>
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=trangntt-016" alt="Profile's view">                     
