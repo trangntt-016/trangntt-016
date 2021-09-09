@@ -1,4 +1,4 @@
-### Hi there, I'm Tracy Nguyen 
+### Hi there, I'm Trang Nguyen (Tracy) 
 
 ## I'm a Computer Programming Student!
 
