@@ -2,9 +2,9 @@
 
 ## I'm a Computer Programming Student!
 
-- 🔭 I’m currently working on a crypto project and writing technical blog posts for Geek Culture!
-- 🌱 I’m currently learning Java Spring Boot, data structures and algorithms
-- 👯 I’m looking for Coop/ Internship for Winter 2021.
+- 🔭 Currently working on a crypto project and writing technical blog posts for Geek Culture!
+- 🌱 Currently learning Java Spring Boot, data structures and algorithms
+- 👯 Looking for Coop/ Internship for Winter 2021.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love cats.
 
