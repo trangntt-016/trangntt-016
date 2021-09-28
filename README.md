@@ -10,8 +10,6 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[LinkedIn](https://www.linkedin.com/in/trangng016/) 
-[Gmail](mailto:trangntt.016@gmail.com)
 [WhatsApp](https://api.whatsapp.com/send?phone=14168714658)
 [Telegram](https://t.me/tracyN016)
 <p align=center>
