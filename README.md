@@ -2,10 +2,9 @@
 
 ## I'm a Computer Programming Student!
 
-- 🔭 Currently working on a crypto project and writing technical blog posts for Geek Culture!
 - 🌱 Currently learning Java Spring Boot and solving Leetcode problems
-- 👯 Looking for Coop/ Internship for Winter 2021.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: done.
+- 🥅 2022 Goals: Getting AWS certificates and solving 400 Leetcode's problems.
 - ⚡ Fun fact: I love cats.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
