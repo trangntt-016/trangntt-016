@@ -3,7 +3,6 @@
 ## I'm a Computer Programming Student!
 
 - 🌱 Currently learning Java Spring Boot and solving Leetcode problems
-- 🥅 2021 Goals: done.
 - 🥅 2022 Goals: Getting AWS certificates and solving 400 Leetcode's problems.
 - ⚡ Fun fact: I love cats.
 
