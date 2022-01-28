@@ -2,10 +2,6 @@
 
 ## I'm a Computer Programming Student!
 
-- 🌱 Currently learning Java Spring Boot and solving Leetcode problems
-- 🥅 2022 Goals: Getting Cloud certificates and solving 400 Leetcode's problems.
-- ⚡ Fun fact: I love cats.
-
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [WhatsApp](https://api.whatsapp.com/send?phone=14168714658)
