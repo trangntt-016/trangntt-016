@@ -70,6 +70,8 @@ President’s Honour List – Fall 2020
 </a>
 </div>
 
+![snake gif](https://github.com/trangntt-016/trangntt-016/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
