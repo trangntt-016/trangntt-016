@@ -1,6 +1,6 @@
 ### Hi there, I'm Trang Nguyen (Tracy) 
 
-## I'm a Computer Programming Student!
+## I'm a Software Developer!
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
